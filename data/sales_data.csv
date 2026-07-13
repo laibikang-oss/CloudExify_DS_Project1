@@ -1,0 +1,21 @@
+﻿Sale_ID,Product,Category,Region,Units,Unit_Price,Amount,Date
+S001,Laptop,Electronics,Lahore,2,80000,160000,7/1/2026
+S002,Mouse,Accessories,Karachi,5,1200,6000,7/3/2026
+S003,Keyboard,Accessories,Multan,3,1500,4500,7/5/2026
+S004,CPU,Computer Parts,Islamabad,1,50000,50000,7/8/2026
+S005,Headphone,Accessories,Lahore,4,3000,12000,7/10/2026
+S006,Laptop,Electronics,Karachi,1,85000,85000,8/2/2026
+S007,Monitor,Electronics,Lahore,2,22000,44000,8/6/2026
+S008,Mouse,Accessories,Multan,4,1200,4800,8/10/2026
+S009,CPU,Computer Parts,Karachi,2,52000,104000,8/18/2026
+S010,Keyboard,Accessories,Islamabad,5,1600,8000,8/25/2026
+S011,Headphone,Accessories,Multan,3,3200,9600,9/2/2026
+S012,Laptop,Electronics,Islamabad,1,90000,90000,9/5/2026
+S013,Mouse,Accessories,Lahore,6,1300,7800,9/9/2026
+S014,Monitor,Electronics,Karachi,1,21000,21000,9/15/2026
+S015,CPU,Computer Parts,,1,51000,51000,9/20/2026
+S016,Keyboard,Accessories,Lahore,2,1700,3400,9/22/2026
+S017,Headphone,Accessories,Karachi,5,2800,14000,9/25/2026
+S018,Laptop,Electronics,Multan,1,,,9/27/2026
+S019,Monitor,Electronics,Islamabad,3,23000,69000,9/29/2026
+S020,Mouse,Accessories,Lahore,4,1400,5600,9/30/2026
