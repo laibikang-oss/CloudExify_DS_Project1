@@ -1,0 +1,35 @@
+SALES DATA ANALYSIS REPORT
+
+Project:
+Sales Data Analysis
+
+Author:
+Laiba Fatima
+
+Tools Used:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+Dataset Summary:
+- Total Records: 18
+- Date Range: 2026-07-01 to 2026-09-30
+
+Results:
+- Total Revenue: Rs 698,700
+- Average Sale: Rs 38,816.67
+- Median Sale: Rs 13,000
+- Highest Revenue Product: Laptop
+- Best Sales Month: August 2026
+
+Key Insights:
+- Electronics generated the highest revenue.
+- Accessories sold the highest number of units.
+- Laptop contributed the highest revenue.
+- Monthly sales trends showed changes in revenue over time.
+- Regional analysis helped identify sales distribution.
+
+Conclusion:
+This project successfully cleaned, analyzed, and visualized sales data using Python. The generated insights can help businesses understand product performance and make better business decisions.
