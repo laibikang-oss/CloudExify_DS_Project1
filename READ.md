@@ -44,4 +44,4 @@ This project demonstrates how data analysis can transform raw sales data into me
 ## 👩‍💻 Author
 Laiba Fatima
 Cloud Exify Summer Internship 2026
-GitHub Repository: (Will be added after upload)
+GitHub Repository: https://github.com/laibikang-oss/CloudExify_DS_Project1
